@@ -32,6 +32,23 @@
 }
 
 
+/* модальное окно */
+
+.modal-text {
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.h2-text {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+}
+
+
 /* блок 2 */
 
 .color-block-2 {
@@ -106,4 +123,31 @@
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
+}
+
+
+/* блок 5 */
+
+.color-block-5 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #E23016;
+    margin-top: 50px;
+}
+
+.text-block-5 {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-size: 36px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.btn-block-5 {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    align-items: center;
+    text-align: center;
 }
