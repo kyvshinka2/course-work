@@ -11,3 +11,18 @@
     font-size: 40px;
     color: #FFFFFF;
 }
+
+/* преподаватели */
+
+.list-cart {
+    background-color: #EBEBEB;
+    padding: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 25px;
+}
+
+.recl-block {
+    background-color: #E23016;
+    border-radius: 25px;
+}
