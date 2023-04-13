@@ -1,0 +1,17 @@
+.block-reg {
+    background-color: #E23016;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin-bottom: 25px;
+}
+
+.block-reg p {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+    padding-left: 25px;
+}
